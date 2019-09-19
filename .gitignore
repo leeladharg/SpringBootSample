@@ -6,6 +6,7 @@ HELP.md
 *.class
 target/
 /.settings
+/bin
 
 
 ### STS ###
